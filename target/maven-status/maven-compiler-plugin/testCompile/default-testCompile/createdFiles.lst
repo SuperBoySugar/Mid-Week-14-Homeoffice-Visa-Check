@@ -1,0 +1,3 @@
+gov\uk\check\visa\testbase\BaseTest.class
+gov\uk\check\visa\testsuite\VisaConfirmationTest.class
+resources\testdata\TestData.class
